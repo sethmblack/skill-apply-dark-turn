@@ -3,8 +3,9 @@ name: apply-dark-turn
 description: Transform generic positive or light content by starting with a relatable premise, then pivoting sharply into darker, more honest territory that creates uncomfortable-but-recognizing laughter.
 license: MIT
 metadata:
+  version: 1.0.3404
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - apply-dark-turn
 - comedy
